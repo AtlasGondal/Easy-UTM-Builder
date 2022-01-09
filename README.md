@@ -1,4 +1,4 @@
-[![easy-utm-builder](https://socialify.git.ci/AtlasGondal/easy-utm-builder/image?description=1&descriptionEditable=extract%20media%20URLs%20of%20wordpress%20website&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fdevicons%2Fdevicon%2Fmaster%2Ficons%2Fwordpress%2Fwordpress-original.svg&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Light)][plugin-url]
+[![easy-utm-builder](https://socialify.git.ci/AtlasGondal/easy-utm-builder/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fdevicons%2Fdevicon%2Fmaster%2Ficons%2Fwordpress%2Fwordpress-original.svg&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1)][plugin-url]
 
 # Easy UTM Builder
 add UTM parameters to wordpress website urls
